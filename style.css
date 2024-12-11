@@ -29,7 +29,7 @@
 }
 
 .nav_item {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Inter", sans-serif;
   width: 400px;
   display: flex;
   justify-content: space-around;
@@ -75,20 +75,20 @@ a:hover {
 }
 
 #title {
-  font-family: "Lucida Sans", Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: large;
   margin-top: 3px;
 }
 
 .price {
-  font-family: "Lucida Sans", Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 13px;
   font-weight: 600;
 }
 
 .button {
   margin-top: 8px;
-  font-family: "Lucida Sans", Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: large;
   color: white;
   width: 100%;
@@ -156,7 +156,7 @@ input {
 }
 
 .nav_aside {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Inter", sans-serif;
   width: 230px;
   display: flex;
   justify-content: space-between;
@@ -180,14 +180,14 @@ input {
 }
 
 h1 {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 35px;
 }
 
 .bio,
 .title_daftar_produk,
 .footer_ftr {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .button_btn {
@@ -200,6 +200,7 @@ h1 {
   background-color: white;
   color: black;
   margin: 20px 0;
+  border: none;
 }
 
 .daftar_produk {
